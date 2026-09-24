@@ -1,26 +1,28 @@
-# Olá, eu sou Gabriel Baruta Kocsis! 👋
+# Olá, eu sou Gabriel Baruta Kocsis! 🕸️🤖
 
 <div align="center">
+  <img src="https://media.giphy.com/media/xTiTnz33weTH3K8Uvu/giphy.gif" width="300" alt="Iron Man HUD">
   <h3>DEV FULL STACK | IA Dev</h3>
+  <i>"Com grandes poderes vêm grandes responsabilidades."</i><br>
   <i>Engenharia da Computação @ UTFPR | Embaixador Estudantil do Google (2026)</i>
 </div>
 
 ---
 
-### 👨‍💻 Sobre mim
+### 🦸‍♂️ História de Origem (Sobre mim)
 
-Sou estudante de Engenharia da Computação na Universidade Tecnológica Federal do Paraná (UTFPR), Campus Apucarana, e atuo no desenvolvimento de software unindo práticas de desenvolvimento Full Stack com a exploração de Inteligência Artificial.
+Assim como Tony Stark está sempre aprimorando seus trajes e o J.A.R.V.I.S., eu atuo no desenvolvimento de software unindo práticas de desenvolvimento Full Stack com a exploração de **Inteligência Artificial**. 
 
-Minha pesquisa atual é altamente focada no **uso responsável de IA Gerativa na educação e no ensino de computação**, buscando maneiras de integrar essas ferramentas para melhorar a formação de estudantes e a capacitação de gestores.
+Minha verdadeira "Iniciativa Vingadores" é focada no **uso responsável de IA Gerativa na educação e no ensino de computação**. Busco maneiras de integrar essas ferramentas para melhorar a formação de estudantes e a capacitação de gestores, garantindo que a tecnologia seja usada para o bem.
 
-- 🔭 Atualmente trabalhando como **Google Student Ambassador (2026)**.
-- 🌱 Aprofundando estudos na intersecção entre Engenharia de Software e Inteligência Artificial.
-- 🎯 Foco atual: Apresentação no Simpósio Brasileiro de Informática na Educação (SBIE 2026) em Goiânia.
-- ⚡ Curiosidade: Além de codar, tenho grande interesse em arquitetura de redes, otimização de infraestrutura de roteadores e setups de alta performance.
+- 🛡️ Atuando na linha de frente como **Google Student Ambassador (2026)**.
+- 🧬 Aprofundando estudos na intersecção entre Engenharia de Software e Inteligência Artificial.
+- 🎯 Missão atual: Apresentação no Simpósio Brasileiro de Informática na Educação (SBIE 2026) em Goiânia.
+- ⚡ Poderes ocultos: Além de codar, tenho grande interesse em arquitetura de redes, otimização de infraestrutura de roteadores e setups de alta performance.
 
 ---
 
-### 🚀 Tecnologias e Ferramentas
+### 🛠️ Indústrias Stark: Meu Arsenal Tecnológico
 
 <div align="left">
   <!-- Linguagens -->
@@ -43,18 +45,18 @@ Minha pesquisa atual é altamente focada no **uso responsável de IA Gerativa na
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 🗃️ Arquivos Confidenciais da S.H.I.E.L.D. (Estatísticas do GitHub)
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ---
 
-### 🔬 Publicações e Palestras
+### 🌌 O Multiverso Acadêmico (Publicações e Palestras)
 
-Tenho me dedicado ativamente à comunidade acadêmica e de ensino através de publicações e capacitações:
+Tenho me dedicado ativamente à comunidade acadêmica, compartilhando conhecimento como um verdadeiro Mago Supremo das tecnologias:
 
 - 📄 **SBIE 2026 (Goiânia):** Apresentação de artigo sobre Inteligência Artificial na Educação.
 - 📄 **WIE 2026:** Artigo aprovado e publicado no Workshop de Informática na Escola sobre capacitação de IA para gestores escolares.
@@ -63,7 +65,7 @@ Tenho me dedicado ativamente à comunidade acadêmica e de ensino através de pu
 
 ---
 
-### 📬 Como me encontrar
+### 📡 Frequência de Comunicação (Como me encontrar)
 
 <p align="left">
   <a href="INSERIR_LINK_DO_LINKEDIN_AQUI" target="_blank">
