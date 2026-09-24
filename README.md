@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, eu sou Gabriel Baruta Kocsis! 👋
 
-<!--
-**GabrielBaruta/GabrielBaruta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DEV FULL STACK | IA Dev**
 
-Here are some ideas to get you started:
+Sou estudante de Engenharia da Computação na UTFPR e Embaixador Estudantil do Google (2026). Meu trabalho e pesquisa têm um forte foco no desenvolvimento de Inteligência Artificial aplicada à engenharia de software e ao ensino de computação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tecnologias e Ferramentas
+- **Linguagens:** Python, C, C++, JavaScript
+- **Front-end:** React, Tailwind CSS
+- **Back-end & APIs:** FastAPI
+- **Banco de Dados:** PostgreSQL, Oracle, SQL Server
+- **DevOps & Versionamento:** Docker, Git/GitHub
+
+### 🎓 Destaques 
+- 🏅 **Programa Embaixadores Estudantis do Google (2026)**
+- 🔬 Pesquisador focado no uso responsável de IA Gerativa no Ensino de Computação (com publicações no LAK26 e WIE 2026).
+- 💻 Experiência na condução de oficinas práticas e capacitações de IA para gestores e estudantes.
+
+### 📬 Como me encontrar
+- [LinkedIn](INSERIR_LINK_AQUI)
+- E-mail: [INSERIR_EMAIL_AQUI]
