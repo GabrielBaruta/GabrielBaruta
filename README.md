@@ -36,15 +36,6 @@ Minha atuação e pesquisa são fortemente focadas no **uso responsável de IA G
 
 <br>
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-<br>
-
 ## 🔬 Publicações e Capacitações
 
 Tenho contribuído ativamente com a comunidade acadêmica através de pesquisas, artigos e facilitação de treinamentos tecnológicos:
